@@ -1,7 +1,7 @@
 
 ## About Me
 
-Highly Energetic and Active student with good problem solving and tacktical technique.Here I have been Open up my Portfolio to showcase my projects and my experirence.Since my Schooling I have been a consistent Performer and won achievements,I will ensure you that, I can prove my consistency and the effect through this Prime Batch that would make the outcome to the core.
+Backend & Web Developer skilled in Java, C#, ASP.NET Core, Networking, Operating Systems, and Web APIs. Experienced in OOP, databases, CRUD operations, and building RESTful services. Proficient in HTML5, CSS3, JavaScript, and basic Azure. Passionate about developing scalable, efficient, and reliable applications. Eager to contribute to your organization by leveraging my skills to be a valuable asset to the company.
 
 - **Name:** DHARANI P
 - **Reg No:** 212222220011
