@@ -67,26 +67,5 @@ surveillance videos.
 ### Volunteer Coordinator | Drestin – National Symposium
 - **Duration:** October 2023 - November 2023
 - **Description:** Successfully organized and managed a event named **Riddle SQL**, ensuring smooth execution and participant engagement.
-### Completion of Computer Software College(CSC)| 2018 
-- **Duration:** May 2018-June 2018 
-- **Description:** Engaged with Mircosoft Word,Excel,Tally
-### Been as a Consistent Performer in Schooling | School
-- **Duration:** Schooling
-- **Description:** Being a High Enegertic Student, Got continuous Merit certficates.
-### Been as a School Class Leader for 6 years | School
-- **Duration:** From 6th -12th std
-- **Description:** Being a Active student I have been opted as class leader for 6 years continuously .
-### District level  Champion | Yoga
-- **Duration:** 18 06 2016
-- **Description:** District level yoga competition 2016
-### Participant of World Record  | Yoga
-- **Duration:** 4th December 2016
-- **Description:** Performed SIRSHANA to support yoga education to fight Diabetes/Cancer
-###  Asprining Sport Student  | Yoga
-- **Duration:** Schooling
-- **Description:** Performed and Participated in many sport activities like Football,Shuttle, etc,.
-### Member of EcoEnvironment | Redhills
-- **Duration:** January 2023 – Present
-- **Description:** Actively participating in environmental sustainability initiatives by promoting cleanliness and greenery.
  
 ---
