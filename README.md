@@ -6,7 +6,7 @@ Backend & Web Developer skilled in Java, C#, ASP.NET Core, Networking, Operating
 - **Name:** DHARANI P
 - **Reg No:** 212222220011
 - **Department:** Information Technology
-- **Year:** 3rd Year
+- **Year:** 4TH Year
 - **College:** Saveetha Engineering College
 - **LinkedIn:** [dharani18p-LinkedIn](https://www.linkedin.com/in/dharani-p-794905270/)
 - **GitHub:** [dharani18p-Github](https://github.com/dharani18p)
