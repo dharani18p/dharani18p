@@ -26,33 +26,61 @@ Backend & Web Developer skilled in Java, C#, ASP.NET Core, Networking, Operating
 
 
 ## Projects
-### GotIt- AI-Driven Multilingual Text Summarizer: Enhancing Efficiency and Accessibility
-- **Description:** This project has enchanced with more Ai based techniques like Multilingual support ,keywords extractions.
-Here, this summarizer also supports PDF where you can upload a particular Research paper and this AI summarizer will Analysis your paper and gives you a categorized summary.
-- **Technologies Used:** Streamlit, PyTorch, Torchvision, OpenAI GPT - 4o, Visual Studio Code , Gen AI .
-- **Features:** Summerize the input text into the user convenient language and also extarcts we words,as well as a document
-- **GitHub Repository:** [GotIt](https://github.com/dharani18p/Miniproject)
+### 🌐 GotIt – AI-Driven Multilingual Text Summarizer
+- **📝 Description:** An advanced AI-powered summarizer supporting multilingual output and keyword extraction. It can analyze uploaded PDF research papers and generate structured, categorized summaries.
+- **🛠 Technologies Used:** Streamlit, PyTorch, Torchvision, OpenAI GPT-4o, Gen AI, VS Code
+- **✨ Features:**  
+  - Multilingual text summarization  
+  - Keyword extraction  
+  - PDF-to-summary conversion  
+  - AI-powered categorized insights  
+- **🔗 GitHub Repository:** [GotIt](https://github.com/dharani18p/Miniproject)
 
-### AI-Powered CCTV Event Analyzer
-- **Description:** This project creates an automated CCTV video summarization system that extracts key events, such as
-object detection and movement, from video footage. It uses YOLOv5 for real-time object detection and
-generates a detailed textual summary of the events, helping users quickly understand the content of long
-surveillance videos.
-- **Technologies Used:** Image Processing,yolov5, Streamlit,OpenAI GPT - 4o,Visual Studio Code , Gen AI .
-- **Features:** Gives a summerized text for the video footage that extracts  the key events.
-- **GitHub Repository:** [cctv -analyzer](https://github.com/dharani18p/cctv-analyzer)
 
-### Sample Web Page for a Company
-- **Description:** The repository "Product Company Website" showcases a responsive website design for a software product company, built using HTML and CSS. It highlights a clean and structured layout, suitable for showcasing company products and services effectively.
-- **Technologies Used:** HTML, CSS, Visual Studio Code , Gen AI 
-- **Features:** Engaging section ,which is useful for the users to access their needed sections
-- **GitHub Repository:** [WebPage for a Product Company](https://github.com/dharani18p/productcompanywebsite)
+### 🎥 AI-Powered CCTV Event Analyzer
+- **📝 Description:** Automated system that analyzes CCTV footage to extract key events like object detection, movement, and incidents. Uses YOLOv5 for detection and GPT-4o for natural language event summaries.
+- **🛠 Technologies Used:** YOLOv5, Image Processing, Streamlit, OpenAI GPT-4o, Gen AI
+- **✨ Features:**  
+  - Real-time object & motion detection  
+  - AI-generated textual summary  
+  - Helps reduce long-hour video review  
+- **🔗 GitHub Repository:** [cctv-analyzer](https://github.com/dharani18p/cctv-analyzer)
 
-### Event Registeration Using Figma
-- **Description:** The Event Registration  is a web application developed using Figma Tool, designed to streamline the registration process for events. It includes structured content, visual elements, and clear design steps to enhance user experience.
-- **Technologies Used:** Figma, Figma Tools
-- **Features:** Product comparisons based on price , Personalized Recommendations and eal-Time Comparison.
-- **GitHub Repository:** [Event Registeration Using Figma](https://github.com/dharani18p/event-registration)
+
+### 📋 Job Tracker Application
+- **📝 Description:**  
+  A lightweight tool to help job seekers track their job applications, interview stages, company details, and application status in one place.
+
+- **🛠 Technologies Used:**  
+  JavaScript, HTML, CSS
+
+- **✨ Features:**  
+  - Add and update job application details  
+  - Track status (Applied, Interviewing, Offered, Rejected)  
+  - Simple and clean UI  
+  - Easy filtering and viewing of applications  
+
+- **🔗 GitHub Repository:**  
+  [job-tracker](https://github.com/dharani18p/job-tracker)
+
+
+### 🗂️ Task-Management Web Application
+- **📝 Description:**  
+  A simple and efficient task management web app to organize personal or team tasks. Supports categories, deadlines, and priority-based sorting.
+
+- **🛠 Technologies Used:**  
+  Python, Flask, SQLite, HTML, CSS, JavaScript
+
+- **✨ Features:**  
+  - Add, edit, delete tasks  
+  - Categorize tasks and set priorities  
+  - Deadline reminders  
+  - Clean dashboard interface  
+  - Persistent task storage (SQLite)
+
+- **🔗 GitHub Repository:**  
+  [task-management-Web-App](https://github.com/dharani18p/task-management-Web-App)
+
 
 
 ---
