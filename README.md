@@ -9,7 +9,6 @@ Backend & Web Developer skilled in Java, C#, ASP.NET Core, Networking, Operating
 - **Year:** 4TH Year
 - **College:** Saveetha Engineering College
 - **LinkedIn:** [dharani18p-LinkedIn](https://www.linkedin.com/in/dharani-p-794905270/)
-- **GitHub:** [dharani18p-Github](https://github.com/dharani18p)
 - **Portfolio:** [dharani18p-Portfolio](https://dharaniportfolio-60032084450.development.catalystserverless.in/app/index.html)
 
 ---
